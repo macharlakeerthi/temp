@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ashutosh-akhouri/temp/issues"
   },
-  "homepage": "https://github.com/ashutosh-akhouri/temp#readme"
+  "homepage": "https://github.com/ashutosh-akhouri/temp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
